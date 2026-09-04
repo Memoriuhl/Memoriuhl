@@ -1,5 +1,3 @@
-### Hi
-
 <!-- gitlab-graph-mirror:start -->
 <div align="center">
 <picture>
