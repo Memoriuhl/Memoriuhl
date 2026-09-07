@@ -22,6 +22,7 @@
 <text x="568" y="66" font-size="10" fill="#57606a">Jun</text>
 <text x="620" y="66" font-size="10" fill="#57606a">Jul</text>
 <text x="672" y="66" font-size="10" fill="#57606a">Aug</text>
+<text x="737" y="66" font-size="10" fill="#57606a">Sep</text>
 <text x="40" y="96" font-size="9" text-anchor="end" fill="#57606a">M</text>
 <text x="40" y="122" font-size="9" text-anchor="end" fill="#57606a">W</text>
 <text x="40" y="148" font-size="9" text-anchor="end" fill="#57606a">F</text>
@@ -396,6 +397,7 @@
 <rect x="724" y="126" width="11" height="11" rx="2" fill="#d2dcff"><title>2 on 2026-09-03</title></rect>
 <rect x="724" y="139" width="11" height="11" rx="2" fill="#d2dcff"><title>4 on 2026-09-04</title></rect>
 <rect x="724" y="152" width="11" height="11" rx="2" fill="#ececef"><title>0 on 2026-09-05</title></rect>
+<rect x="737" y="74" width="11" height="11" rx="2" fill="#ececef"><title>0 on 2026-09-06</title></rect>
 <rect x="48" y="176" width="10" height="10" rx="2" fill="#ececef"/>
 <rect x="62" y="176" width="10" height="10" rx="2" fill="#d2dcff"/>
 <rect x="76" y="176" width="10" height="10" rx="2" fill="#7992f5"/>
